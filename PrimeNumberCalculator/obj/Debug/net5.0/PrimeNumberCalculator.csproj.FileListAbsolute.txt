@@ -1,0 +1,15 @@
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/bin/Debug/net5.0/PrimeNumberCalculator.deps.json
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/bin/Debug/net5.0/PrimeNumberCalculator.runtimeconfig.json
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/bin/Debug/net5.0/PrimeNumberCalculator.runtimeconfig.dev.json
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/bin/Debug/net5.0/PrimeNumberCalculator.dll
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/bin/Debug/net5.0/ref/PrimeNumberCalculator.dll
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/bin/Debug/net5.0/PrimeNumberCalculator.pdb
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/obj/Debug/net5.0/PrimeNumberCalculator.csproj.AssemblyReference.cache
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/obj/Debug/net5.0/PrimeNumberCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/obj/Debug/net5.0/PrimeNumberCalculator.AssemblyInfoInputs.cache
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/obj/Debug/net5.0/PrimeNumberCalculator.AssemblyInfo.cs
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/obj/Debug/net5.0/PrimeNumberCalculator.csproj.CoreCompileInputs.cache
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/obj/Debug/net5.0/PrimeNumberCalculator.dll
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/obj/Debug/net5.0/ref/PrimeNumberCalculator.dll
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/obj/Debug/net5.0/PrimeNumberCalculator.pdb
+/Users/rturgut/Desktop/PrimeNumberCalculator/PrimeNumberCalculator/obj/Debug/net5.0/PrimeNumberCalculator.genruntimeconfig.cache
